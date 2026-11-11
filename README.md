@@ -8,12 +8,13 @@
 | [cad-designer](skills/cad-designer/SKILL.md) | 制图规范、图层和标注标准、参数化设计与图纸审查 |
 | [cad-project-delivery](skills/cad-project-delivery/SKILL.md) | 机械三视图、建筑平面、室内立面与景观剖面的制作、修订和交付 |
 | [local-cad-automation](skills/local-cad-automation/SKILL.md) | 从 DWG、DXF、尺寸或参考图生成和检查可编辑 CAD 图纸，含家具图块和模型 |
+| [rhino-modeling](skills/rhino-modeling/SKILL.md) | Rhino 曲面与实体建模、几何检查、Python 自动化和格式交换 |
 
 ## 软件覆盖
 
 - **AutoCAD**：制图、标注、图层和图块管理、批量处理及可编辑 DWG 交付。
 - **SketchUp（SU）**：原生 SKP 读写、毫米与英寸换算、建模分组与材质、剖切面和场景设置，以及保存后的模型检查。详见 [Windows 原生软件操作参考](skills/cad-project-delivery/references/windows-native.md#sketchup)。
-- **Rhino（犀牛）**：当前版本暂无专门技巧或工作流。
+- **Rhino（犀牛）**：曲面与实体建模、单位与公差、几何修复、Rhino 8 Python，以及 3DM、STEP、DWG 和 DXF 交付。
 
 ## 使用
 
