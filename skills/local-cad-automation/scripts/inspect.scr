@@ -1,0 +1,2 @@
+(progn (princ (list "CADTRAIN" (getvar "INSUNITS") (mapcar (function (lambda (typ / ss) (setq ss (ssget "_X" (list (cons 410 "Model") (cons 0 typ)))) (if ss (sslength ss) 0))) (list "*" "LINE" "CIRCLE" "INSERT" "DIMENSION" "HATCH" "3DSOLID")))) (princ))
+

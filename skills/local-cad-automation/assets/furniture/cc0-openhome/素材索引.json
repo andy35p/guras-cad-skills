@@ -1,0 +1,44 @@
+[
+  {
+    "block": "CC0_KAYKIT_ARMCHAIR_FRONT",
+    "file": "kaykit-furniture/armchair-pillows.glb",
+    "width_mm": 700,
+    "height_mm": 476.02,
+    "sha256": "d32340c722050dcac03062e4882c880cd41247dec1fed6aa8040d390e9ea0adc"
+  },
+  {
+    "block": "CC0_KENNEY_KITCHENSINK_FRONT",
+    "file": "kenney/kitchenSink.glb",
+    "width_mm": 660,
+    "height_mm": 752.09,
+    "sha256": "7b9610277d71f00dcf1bba49cf4d98d77ce5177e84bf76c7da2f8893e542f743"
+  },
+  {
+    "block": "CC0_KENNEY_TOILET_FRONT",
+    "file": "kenney/toilet.glb",
+    "width_mm": 500,
+    "height_mm": 721.43,
+    "sha256": "16165cfd03c56c2cb443b800570810a22ef770f65e7a468f6761d9dc14eaaeae"
+  },
+  {
+    "block": "CC0_KAYKIT_BED_FRONT",
+    "file": "kaykit-furniture/bed-double-a.glb",
+    "width_mm": 1800,
+    "height_mm": 580.65,
+    "sha256": "d0d6b0f9754669b62819e19a4f56b5d0d150a70a438e883c9ae75f2d5edf0f64"
+  },
+  {
+    "block": "CC0_KAYKIT_LAMP_100",
+    "file": "kaykit-furniture/lamp-table.glb",
+    "width_mm": 300,
+    "height_mm": 306.5,
+    "sha256": "d632b0a185f1d82114bb082b96103b9902f4899de7e60c7e2b4a83b390052b64"
+  },
+  {
+    "block": "CC0_KAYKIT_LAMP_2500",
+    "file": "kaykit-furniture/lamp-table.glb",
+    "width_mm": 300,
+    "height_mm": 306.5,
+    "sha256": "d632b0a185f1d82114bb082b96103b9902f4899de7e60c7e2b4a83b390052b64"
+  }
+]

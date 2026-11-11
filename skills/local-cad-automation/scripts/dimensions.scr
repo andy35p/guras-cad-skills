@@ -1,0 +1,2 @@
+(progn (setq s (ssget "_X" (list (cons 410 "Model") (cons 0 "DIMENSION"))) i 0) (repeat (sslength s) (setq e (entget (ssname s i)) i (1+ i)) (print (list (cdr (assoc 42 e)) (cdr (assoc 1 e)) (cdr (assoc 3 e))))) (princ))
+
